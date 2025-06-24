@@ -1,4 +1,3 @@
-// JavaScript to handle button click
 const button = document.getElementById('actionBtn');
 
 button.addEventListener('click', () => {
